@@ -20,7 +20,6 @@ I build **production-minded cloud infrastructure** with Terraform—secure by de
 
 **Why it matters:** controlled ingress, private compute (**no SSH**), and ops-minded defaults you can explain in an interview.
 ➡️ Repo: [https://github.com/justin-henson/nz-cloud-baseline-aws](https://github.com/justin-henson/nz-cloud-baseline-aws)
-🎥 **60–90s demo video:** *(add link here once recorded — apply → curl → verify → destroy)*
 
 ### 2) nz-ops-runbooks — Operational runbooks & templates (incident, change, DR)
 
