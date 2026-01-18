@@ -1,83 +1,53 @@
-# Justin Henson — Cloud / DevOps Portfolio (NZ & AU-ready)
+# Justin Henson — Cloud / DevOps Engineer (NZ & AU-ready)
 
-I build production-minded cloud infrastructure with **Terraform**, focusing on **security, operability, and repeatable demos** (create → verify → destroy).
-I’m targeting **Cloud / DevOps / Infrastructure** roles in **New Zealand and Australia**.
+I build **production-minded cloud infrastructure** with Terraform—secure by default, easy to operate, and **repeatable to demo** (create → verify → destroy).
 
 ## Start here (fastest review path)
 
-1. **Portfolio index (recommended order + narrative):** [https://github.com/justin-henson/nz-sponsor-portfolio](https://github.com/justin-henson/nz-sponsor-portfolio)
-2. **Hands-on AWS Terraform baseline (core infra):** [https://github.com/justin-henson/nz-cloud-baseline-aws](https://github.com/justin-henson/nz-cloud-baseline-aws)
-3. **Ops / SRE runbooks + templates (operate & improve):** [https://github.com/justin-henson/nz-ops-runbooks](https://github.com/justin-henson/nz-ops-runbooks)
+* **Portfolio index (recommended order + narrative):** [https://github.com/justin-henson/nz-sponsor-portfolio](https://github.com/justin-henson/nz-sponsor-portfolio)
+* **AWS Terraform baseline (core infra):** [https://github.com/justin-henson/nz-cloud-baseline-aws](https://github.com/justin-henson/nz-cloud-baseline-aws)
+* **Ops / SRE runbooks (operate & improve):** [https://github.com/justin-henson/nz-ops-runbooks](https://github.com/justin-henson/nz-ops-runbooks)
 
-## What you’ll find in my repos
+## Fast proof (60 seconds)
 
-* Clear “**what/why**” up top (what it demonstrates + tradeoffs)
-* **Architecture diagrams** (Mermaid)
-* **Proof steps** you can run to verify it works
-* **Run / Destroy** commands for clean, repeatable demos
-* **Security + Cost notes** (what’s locked down, what drives spend)
-
----
+* **Live check:** Open the `nz-cloud-baseline-aws` README and run the “Proof” steps (ALB response + target health).
+* **Ops mindset:** Skim `nz-ops-runbooks` → incident response + postmortem templates + change/DR checklists.
+* **Story + context:** `nz-sponsor-portfolio` ties the repos to real job responsibilities and review order.
 
 ## Featured projects
 
 ### 1) nz-cloud-baseline-aws — AWS baseline with Terraform (VPC, ALB, private EC2 via SSM)
 
-**Why it matters:** demonstrates real-world patterns: controlled ingress, private compute (**no SSH**), and ops-minded defaults you can explain in an interview.
-
-**Highlights**
-
-* VPC with public/private subnets across 2 AZs
-* ALB → Target Group → private instance (port 8080)
-* SSM access (no inbound SSH)
-* Repeatable workflow: create → verify → destroy
-
+**Why it matters:** controlled ingress, private compute (**no SSH**), and ops-minded defaults you can explain in an interview.
 ➡️ Repo: [https://github.com/justin-henson/nz-cloud-baseline-aws](https://github.com/justin-henson/nz-cloud-baseline-aws)
+🎥 **60–90s demo video:** *(add link here once recorded — apply → curl → verify → destroy)*
 
 ### 2) nz-ops-runbooks — Operational runbooks & templates (incident, change, DR)
 
 **Why it matters:** shows I think beyond “deploy” into **operate + recover + improve**.
-
-**Highlights**
-
-* Incident response + postmortem templates
-* Change management checklists
-* DR planning notes + operational workflows
-* Small automation helpers where useful
-
 ➡️ Repo: [https://github.com/justin-henson/nz-ops-runbooks](https://github.com/justin-henson/nz-ops-runbooks)
 
-### 3) nz-sponsor-portfolio — Sponsor-ready portfolio index (what to review + order)
+### 3) nz-sponsor-portfolio — BEGIN HERE - What to review first (and why)
 
 **Why it matters:** makes it easy to evaluate my work quickly without guessing where to start.
-
-**Highlights**
-
-* Recommended review path
-* One-page story tying repos to job responsibilities
-* Architecture overview + quick verification links
-
 ➡️ Repo: [https://github.com/justin-henson/nz-sponsor-portfolio](https://github.com/justin-henson/nz-sponsor-portfolio)
 
----
+## Skills snapshot
 
-## Tech I use (and why)
-
-* **Terraform** (repeatable infra, clean diffs, predictable destroy)
-* **AWS** (VPC networking, ALB, IAM, SSM, VPC endpoints)
+* **Terraform** (modules, clean diffs, predictable destroy)
+* **AWS** (VPC networking, IAM, ALB, SSM, VPC endpoints)
 * **Linux + CLI** (debugging, automation, operational workflows)
-* **Ops practices** (runbooks, incident/postmortems, DR thinking)
+* **Ops/SRE** (runbooks, incident/postmortems, DR thinking)
 
-## Notes on cost / safety for demos
+## NZ/AU-friendly
 
-Some AWS demos can incur charges while running (especially **ALBs** and **VPC interface endpoints**).
-Each repo is designed so resources can be **destroyed cleanly right after verification**.
-
----
+I’m targeting **Cloud / DevOps / Infrastructure** roles in **New Zealand and Australia** and can align working hours for NZ/AU overlap.
 
 ## Contact
-- LinkedIn: **https://www.linkedin.com/in/justin-henson/**
-- Email: **justin.henson@pm.me**
+
+* LinkedIn: [https://www.linkedin.com/in/justin-henson/](https://www.linkedin.com/in/justin-henson/)
+* Email: [justin.henson@pm.me](mailto:justin.henson@pm.me)
 
 If you’re hiring for NZ/AU cloud, DevOps, or infrastructure roles: the **Start here** section above is the fastest way to review my work.
+
 
