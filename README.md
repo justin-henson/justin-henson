@@ -1,6 +1,17 @@
-# Justin Henson — Cloud / DevOps Engineer (AU/NZ-ready)
+# Justin Henson — Cloud / DevOps / Infrastructure
 
-I build production-minded cloud infrastructure with Terraform — secure by default, easy to operate, and repeatable to demo (create → verify → destroy).
+I build and operate AWS infrastructure with Terraform—secure defaults, clean troubleshooting, and demos you can validate fast.
+
+**What I can do:** build/ship reliable cloud infrastructure, tighten security defaults, and write the runbooks so on-call isn’t chaos.
+
+## AU/NZ availability
+- Based in Texas (Central Time, CT).
+- **NZ (Auckland/Wellington):** I can overlap **12:00pm–4:00pm NZT** (typically Mon–Fri).
+- **AU (Sydney/Melbourne):** I can overlap **8:00am–2:00pm AEDT** (typically Mon–Fri).
+- Interview windows: Weekdays **6:00–10:00pm CT**, weekends by arrangement.
+- Work status: Targeting roles in Australia and New Zealand; open to sponsorship and relocation.
+- Role preference: Cloud / DevOps / Infrastructure (Terraform + AWS; ops/runbooks/incident response).
+
 
 ---
 
